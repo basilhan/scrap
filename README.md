@@ -1,2 +1,2 @@
-# scrap
+# scratch
 A central place for use and throw stuff ...
